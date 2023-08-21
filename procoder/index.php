@@ -7,7 +7,11 @@
 </head>
 <body>
     <?php
+
     $food = "PIZZA";
-    echo 'I love to eat '. $food;  ?>
+    $Food = "Burger";
+    echo 'I love to eat '. $Food;
+    
+    ?>
 </body>
 </html>
