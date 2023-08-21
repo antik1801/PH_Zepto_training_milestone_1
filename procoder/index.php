@@ -10,8 +10,13 @@
 
     $food = "PIZZA";
     $Food = "Burger";
-    echo 'I love to eat '. $Food;
-    
+    $age = 10;
+    echo 'I love to eat '. $Food . '<br>';
+
+    $age = 10;
+    $class = 10
+    echo 'My age is' . $age . '<br>';
+    echo 'I read in class '. $class . ''
     ?>
 </body>
 </html>
