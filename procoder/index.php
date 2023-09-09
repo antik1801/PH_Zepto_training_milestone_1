@@ -14,9 +14,12 @@
     echo 'I love to eat '. $Food . '<br>';
 
     $age = 10;
-    $class = 10
-    echo 'My age is' . $age . '<br>';
-    echo 'I read in class '. $class . ''
+    $class = 10;
+    echo 'My age is' . $age. '<br>';
+    echo 'I read in class '. $class . '<br>';
+    print $age + $class;
+    $foods = print("drinks").'<br>';
+    echo $foods;
     ?>
 </body>
 </html>

@@ -1,5 +1,6 @@
 <?php 
 
-class Vehicle {
+echo "string"
 
-}
+
+
